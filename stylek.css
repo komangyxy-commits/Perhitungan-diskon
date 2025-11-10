@@ -1,0 +1,33 @@
+body {
+  background-color: hsl(0, 0%, 100%);
+}
+
+.kotak {
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(44, 247, 193);
+    padding: 10px 50px;
+    background-position: center;
+    border-radius: 12px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.292);
+}
+
+.kotak input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+.kotak input[type="button"]{
+    margin-left: 88px;
+    margin-top: 10px;
+    width: 120px;
+    height: 30px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+  
